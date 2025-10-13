@@ -1,9 +1,11 @@
 # Olá, eu sou Daniel de Morais 👋
 
 ## Sobre mim:
-### 19 anos
+### 20 anos
 ### Estudante no IFPB - Campus Cajazeiras
-### Graduando em Análise e Desenvolvimento de sistemas - 5º período
+### Graduando em Análise e Desenvolvimento de sistemas - 6º período
+### Estagio como desenvolvedor FrontEnd
+
 
 <!--
 **DanieldeMoraisFarias/DanieldeMoraisFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
