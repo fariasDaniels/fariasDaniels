@@ -5,6 +5,7 @@
 ### Estudante no IFPB - Campus Cajazeiras
 ### Graduando em Análise e Desenvolvimento de sistemas - 6º período
 ### Estagio como desenvolvedor FrontEnd
+![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fariasDaniels&layout=compact&hide=DockerFile)
 
 
 <!--
