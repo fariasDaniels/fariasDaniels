@@ -3,7 +3,6 @@
 ## Sobre mim:
 ### 20 anos
 ### Graduado em Análise e Desenvolvimento de sistemas - IFPB - Campus Cajazeiras
-### Trabalho como desenvolvedor em um sistema ERP
 ![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fariasDaniels&layout=compact&hide=DockerFile)
 
 
