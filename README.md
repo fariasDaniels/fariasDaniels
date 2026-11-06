@@ -1,7 +1,7 @@
 # Olá, eu sou Daniel de Morais 👋
 
 ## Sobre mim:
-### 20 anos
+### 21 anos
 ### Graduado em Análise e Desenvolvimento de sistemas - IFPB - Campus Cajazeiras
 ![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fariasDaniels&layout=compact&hide=DockerFile)
 
